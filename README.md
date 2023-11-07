@@ -1,6 +1,5 @@
 # op-cocaine
-Simple but working, only QBCore support, this not supporting FiveM
-
+Simple but working, only QBCore support, this not supporting ESX
 ```lua
 ITEMS:
 -- this working with newest qb-core version
