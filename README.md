@@ -1,5 +1,6 @@
-# op-cocaine
-Simple but working, only QBCore support, this not supporting ESX
+# Broken-Cocaine
+Simple but working
+Support: Qbus, QBCore.
 ```lua
 ITEMS:
 -- this working with newest qb-core version
